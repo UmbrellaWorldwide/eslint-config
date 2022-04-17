@@ -1,0 +1,30 @@
+{
+  "name": "@umbrellaworldwide/eslint-config",
+  "version": "1.0.0",
+  "description": "Umbrella Worldwide's default ESLint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UmbrellaWorldwide/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "umbrellaworldwide"
+  ],
+  "author": "Umbrella Worldwide <tech@umbrella.co> (https://www.umbrella.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UmbrellaWorldwide/eslint-config/issues"
+  },
+  "homepage": "https://github.com/UmbrellaWorldwide/eslint-config#readme",
+  "peerDependencies": {
+    "@babel/core": "^7.x.x",
+    "@babel/eslint-parser": "^7.x.x",
+    "eslint": "^7.x.x",
+    "eslint-config-prettier": "^8.x.x",
+    "prettier": "^2.x.x"
+  }
+}
