@@ -1,6 +1,6 @@
 {
   "name": "@umbrellaworldwide/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Umbrella Worldwide's default ESLint configuration",
   "main": "index.js",
   "repository": {
