@@ -46,11 +46,11 @@ Run `npm info "@umbrellaworldwide/eslint-config@latest" peerDependencies` to lis
     - **Option 2:** Without `npx`
 
       ```sh
-      npm install --save-dev @umbrellaworldwide/eslint-config @babel/core@7.x.x @babel/eslint-parser@7.x.x eslint@7.x.x eslint-config-prettier@8.x.x prettier@2.x.x
+      npm install --save-dev @umbrellaworldwide/eslint-config @babel/core@7.x.x @babel/eslint-parser@7.x.x eslint@8.x.x eslint-config-prettier@8.x.x prettier@2.x.x
 
       # or
 
-      yarn add --dev @umbrellaworldwide/eslint-config @babel/core@7.x.x @babel/eslint-parser@7.x.x eslint@7.x.x eslint-config-prettier@8.x.x prettier@2.x.x
+      yarn add --dev @umbrellaworldwide/eslint-config @babel/core@7.x.x @babel/eslint-parser@7.x.x eslint@8.x.x eslint-config-prettier@8.x.x prettier@2.x.x
       ```
 
 3. Create an `.eslintrc` file at the root of your project with the following:
